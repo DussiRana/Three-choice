@@ -1,2 +1,2 @@
 # Three-choice
-this is the first python project game = Snake , water and Gun.
+this is my first python project game = Snake , water and Gun.
